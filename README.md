@@ -1,4 +1,4 @@
-# Reality-Show-Application
+# Cultural Event Registration and Judgement Application
 An application where teams or individuals can register for various events and the judges can award marks to the performance.
 
 Functionalities :
